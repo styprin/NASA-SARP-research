@@ -2,10 +2,10 @@
 
 <img src="https://science.nasa.gov/wp-content/uploads/2023/11/sarp-patch.jpeg?w=1280&format=webp" alt="drawing" width="200" style="float: left; margin-right: 20px;" />
 
-**Student Airborne Research Program (SARP) 2025**  
-**Terrestrial Flux Group**  
-**Graduate Mentor**: Kayla Preisler  
-**Faculty Mentors**: Dr. Brandon Alveshere, Dr. Lisa Haber, and Dr. Chris Gough  
+**Student Airborne Research Program (SARP) 2025**
+**Terrestrial Flux Group**
+**Graduate Mentor**: Kayla Preisler
+**Faculty Mentors**: Dr. Brandon Alveshere, Dr. Lisa Haber, and Dr. Chris Gough
 
 I conducted an independent research project on forest response pathways in the Blackwater National Wildlife Refuge, a region undergoing drastic forest loss due to saltwater intrusion. Using Landsat 8 to extract vegetation indices, I calculated time series metrics that allowed me to identify which forested areas are undergoing transformations, and which areas are stable or in recovery. I compared forest response pathways geographically and by elevation. This work will help inform adaptation strategies and land management techniques.
 

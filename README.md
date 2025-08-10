@@ -1,4 +1,4 @@
-# Project Title
+# Forest Response Pathways in Blackwater National Wildlife Refuge 
 <img align = "left" src="https://science.nasa.gov/wp-content/uploads/2023/11/sarp-patch.jpeg?w=1280&format=webp" alt="drawing" width="200"/>
 Student Airborne Research Program (SARP) 2025
 Terrestrial Flux Group

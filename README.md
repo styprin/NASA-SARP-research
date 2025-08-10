@@ -1,13 +1,11 @@
-# Forest Response Pathways in Blackwater National Wildlife Refuge 
-<img align = "left" src="https://science.nasa.gov/wp-content/uploads/2023/11/sarp-patch.jpeg?w=1280&format=webp" alt="drawing" width="200"/>
-Student Airborne Research Program (SARP) 2025
+# Forest Response Pathways in Blackwater National Wildlife Refuge
 
-Terrestrial Flux Group
+<img src="https://science.nasa.gov/wp-content/uploads/2023/11/sarp-patch.jpeg?w=1280&format=webp" alt="drawing" width="200" style="float: left; margin-right: 20px;" />
 
-Characterizing Forest Response Pathways in the Blackwater National Wildlife Refuge 
-
-Graduate Mentor: Kayla Preisler
-Faculty Mentors: Dr. Brandon Alveshere, Dr. Lisa Haber, and Dr. Chris Gough.
+**Student Airborne Research Program (SARP) 2025**  
+**Terrestrial Flux Group**  
+**Graduate Mentor**: Kayla Preisler  
+**Faculty Mentors**: Dr. Brandon Alveshere, Dr. Lisa Haber, and Dr. Chris Gough  
 
 I conducted an independent research project on forest response pathways in the Blackwater National Wildlife Refuge, a region undergoing drastic forest loss due to saltwater intrusion. Using Landsat 8 to extract vegetation indices, I calculated time series metrics that allowed me to identify which forested areas are undergoing transformations, and which areas are stable or in recovery. I compared forest response pathways geographically and by elevation. This work will help inform adaptation strategies and land management techniques.
 
@@ -23,6 +21,11 @@ This template was generated as an example for how to format and upload project c
 - Delete code that isn't ever used. It can be hard (emotionally), but it helps the code you are using be more useful.
 - Break your project code into a few different notebooks by analysis step and name them starting with a number. For example: `01_preprocessing.ipynb`, `02_timeseries_analysis.ipynb` and `03_visualization.ipynb`.
 - Keep seperate folders for code and figures
+
+To get even deeper into code cleaning, check out the [Good Research Code Handbook](https://goodresearch.dev/index.html).
+
+Some notes:
+- If you are using satellite images as part of your analysis they may be too large to upload to github. In that case simply upload your code.
 
 To get even deeper into code cleaning, check out the [Good Research Code Handbook](https://goodresearch.dev/index.html).
 
